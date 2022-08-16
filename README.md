@@ -1,5 +1,7 @@
 # REST-API
-Rest apis implemented through nodejs with two endpoints for sending and receiving data. 
+Rest apis implemented through nodejs with two endpoints for sending and receiving data.
+Data is represented inJSON format.
+
 Endpoint to get data: http://localhost:8080/feed/posts
 Endpoint to post data: http://localhost:8080/feed/post
 
